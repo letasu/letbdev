@@ -1,4 +1,4 @@
-# Hi! 👋
+## Hi! 👋
 
 I'm **Lettuce Burger / letb**. I like coding, designing, and playing games ✨  
 れたすばーがーです。コード書いたりゲームするのが好き。
